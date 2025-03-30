@@ -1,0 +1,1 @@
+# Copilot-SSO-Browser-Extension
